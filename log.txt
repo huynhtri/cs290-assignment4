@@ -1,0 +1,9 @@
+You log goes in this  file.
+
+Start: Fri, 13 Feb 2015 18:00:00 -0700
+End: Fri, 13 Feb 2015 23:30:00 -0700
+Tasks: Research on PHP and doing test files on how to use PHP.
+
+Start: Sat, 14 Feb 2015 14:00:00 -0700
+End: Sat, 14 Feb 2015 23:30:00 -0700
+Tasks: Started on part 1 of the project.
